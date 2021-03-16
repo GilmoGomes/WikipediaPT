@@ -24,10 +24,10 @@ dependencies {
         useJUnit()
     }
 
-    task regressinTests(type: Test){
+   // task regressinTests(type: Test){
 
-        include '**/Runner*'
-    }
+      //  include '**/Runner*'
+   // }
 
     task smokeTest(type: Test){
         include '**/Runner*'

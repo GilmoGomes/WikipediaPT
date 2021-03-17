@@ -26,7 +26,6 @@ dependencies {
     }
 
    // task regressinTests(type: Test){
-
       //  include '**/Runner*'
    // }
 

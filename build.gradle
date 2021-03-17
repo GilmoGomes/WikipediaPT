@@ -20,6 +20,7 @@ dependencies {
     implementation group: 'com.aventstack', name: 'extentreports', version: '3.0.7'
     implementation group: 'org.freemarker', name: 'freemarker', version: '2.3.28'
 
+}
     test {
         useJUnit()
     }
@@ -36,7 +37,5 @@ dependencies {
     }
 
 
-//oi
-    //dnovo
 
-}
+
